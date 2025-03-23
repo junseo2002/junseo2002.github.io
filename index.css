@@ -4,12 +4,13 @@ body {
   margin-top: 50px;
 }
 
-.name {
+h1 {
   font-size: 5em;
   font-weight: bold;
   margin-bottom: 20px;
 }
 
-.student-id {
+p {
   font-size: 3em;
 }
+
